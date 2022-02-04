@@ -39,3 +39,4 @@ if __name__ == '__main__':
     recognizer.train(faces,np.array(ids))
     # 保存文件
     recognizer.write('D:/pic/trainer/trainer.yml')
+    # 修改一下
